@@ -15,6 +15,9 @@ When to use
 * To encapsulate object creation
 
 
+Class Diagram
+----
+![](https://github.com/ricardomachadosb/Factory-Pattern/blob/master/img/Model.png)
 
 
 
