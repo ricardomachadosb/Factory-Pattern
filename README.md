@@ -17,7 +17,7 @@ When to use
 
 Class Diagram
 ----
-![](https://github.com/ricardomachadosb/Factory-Pattern/blob/master/img/Model.png)
+![](https://github.com/ricardomachadosb/Factory-Pattern/blob/master/img/CLASS_DIAGRAM.png)
 
 
 
